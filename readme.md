@@ -11,4 +11,53 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects; because, why not! 
 - ⚡ Fun fact: I'm just 17 .
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-goel&show_icons=true&locale=en&layout=compact" alt="adarsh-goel" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-goel&show_icons=true&locale=en" alt="adarsh-goel" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-goel&" alt="adarsh-goel" /></p>
+<h3 align="left">🔨 Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.python.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
+        />
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
+        />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
+        />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+        />
+    </a>
+    <a href="https://mongodb.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
+        />
+    </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
+        />
+    </a>
+    <a href="https://json.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
+        />
+    </a>
+</p>
+
+
+## HERE IS A JOKE FOR YOU
+ 
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+ ## SOME INFO
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-goel&theme=github) 
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh-goel&theme=github)
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh-goel&theme=github) 
