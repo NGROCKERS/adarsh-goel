@@ -55,9 +55,10 @@
  
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
- ## SOME INFO
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-goel&theme=github) 
- <br>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh-goel&theme=github)
- <br>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh-goel&theme=github) 
+ ## 📈 My Github Stats!
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-goel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh-goel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh-goel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh-goel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh-goel&theme=github_dark&utcOffset=8)
