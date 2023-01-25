@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning everything, literally 🤓 
 - 👯 I’m looking to collaborate on projects of other developers/programmers 
 - 🤔 I’m looking for help with any of my projects which are not efficient 🙁 
-- 🥅 2022 Goals: Contribute more to Open Source projects; because, why not! 
-- ⚡ Fun fact: I'm just 17 .
+- 🥅 2023 Goals: Contribute more to Open Source projects; because, why not! 
+- ⚡ Fun fact: I'm just 18 .
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
